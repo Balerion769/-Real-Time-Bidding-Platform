@@ -96,7 +96,7 @@ Installation
 
 1.Clone the repository paste following code in Terminal :
 
-git clone https://github.com/yourusername/real-time-bidding-platform.git
+git clone https://github.com/Balerion769/-Real-Time-Bidding-Platform.git
 cd real-time-bidding-platform
 
 2.Install dependencies(copy code in terminal):
