@@ -322,7 +322,10 @@ Response:
 ```
 
 ## Conclusion
-This README provides a comprehensive guide to setting up, running, and understanding the real-time bidding platform. If you have any questions or encounter any issues, please feel free to open an issue on the GitHub repository or contact the project maintainers.
+This README provides a comprehensive guide to setting up, running, and understanding the real-time bidding platform. If you have any questions or encounter any issues, please feel free to open an issue on the 
+GitHub repository or contact the project maintainers.
+## 🛠 Skills
+JavaScript, Node.js , Express.js , RESTful APIs , PostgreSQL , SQL , Socket.IO
 
 
 
